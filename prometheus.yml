@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'dcgm'
+    static_configs:
+      - targets: ['172.21.130.138:9400']
