@@ -19,3 +19,8 @@ Simulates a real datacenter GPU telemetry pipeline:
 ## Background
 Thermal/cooling engineering background: CDU, chiller, direct liquid cooling.
 Built as AI Infrastructure Engineer portfolio project.
+
+## Live Dashboard Screenshot
+![GPU Cluster Monitoring](dashboard.png)
+(https://snapshots.raintank.io/dashboard/snapshot/wcmpssGkQ3tF3GdrKLgqYDF8QLsrjPgF)
+
